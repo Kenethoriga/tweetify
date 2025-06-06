@@ -1,0 +1,5 @@
+# Ignore credentials folder and files
+creds/
+
+# Ignore environment variables file
+.env
